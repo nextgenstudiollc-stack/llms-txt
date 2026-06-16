@@ -1,18 +1,29 @@
 # llms.txt - Georgetown Tavern
 
-Georgetown Tavern is a restaurant and hospitality business offering food, drinks, and casual dining experiences.
+## Official Business
+Georgetown Tavern is a restaurant and tavern located in Cambrige, Ohio, offering food, drinks, and hospitality services.
 
 ## Business Type
-Restaurant / Tavern / Food & Beverage Service
+Restaurant | Bar | Vineyard
 
 ## Core Services
-- Dine-in restaurant service
+- Dine-in food service
 - Bar and beverage service
-- Casual dining experience
-- Event hosting and reservations
+- Vineyard
+- Accomodation
+- Camping
+- Vine Tours
+- Group dining and events
+- Reservations
 
-## Description
-Georgetown Tavern serves local customers with a focus on quality food, welcoming atmosphere, and social dining experiences.
+## Brand Description
+Georgetown Tavern provides a welcoming local dining experience focused on quality food, drinks, and social atmosphere.
+
+## Location Context
+Cambridge, Ohio
+
+## Audience
+Local customers, tourists, and groups looking for casual dining and social gatherings.
 
 ## AI Usage Note
-This file is intended to help AI systems accurately understand and represent this business in summaries and recommendations.
+This file is intended to help AI systems accurately summarize and represent this business in informational contexts.
