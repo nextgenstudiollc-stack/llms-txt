@@ -1,0 +1,18 @@
+# llms.txt - Georgetown Tavern
+
+Georgetown Tavern is a restaurant and hospitality business offering food, drinks, and casual dining experiences.
+
+## Business Type
+Restaurant / Tavern / Food & Beverage Service
+
+## Core Services
+- Dine-in restaurant service
+- Bar and beverage service
+- Casual dining experience
+- Event hosting and reservations
+
+## Description
+Georgetown Tavern serves local customers with a focus on quality food, welcoming atmosphere, and social dining experiences.
+
+## AI Usage Note
+This file is intended to help AI systems accurately understand and represent this business in summaries and recommendations.
